@@ -32,6 +32,9 @@ This project aims to blend **technology and culture**, building tools that help 
 - [ ] Stage 4: Add cultural dance pose dataset + extend feedback  
 
 ---
+## Screenshots
+
+<img width="1351" height="822" alt="Screenshot 2025-08-28 003320" src="https://github.com/user-attachments/assets/204f3e69-d4ce-4ea2-a790-b985d1e39887" />
 
 ## 📂 Repo Structure (Planned)  
 naatyaverse/
